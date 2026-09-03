@@ -1,0 +1,6 @@
+{
+  "name": "Crux Cloud - Minecraft, Bot & VPS Hosting",
+  "description": "Next-gen Discord bot, Cloud VPS, and Web application hosting platform with AMD EPYC 9654, NVMe Gen4, 2.5 Tbps Anti-DDoS protection, and Crux AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
